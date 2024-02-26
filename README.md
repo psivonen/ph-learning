@@ -1,5 +1,7 @@
 # Website template for photographer
 
+![ph-learning-1](https://github.com/psivonen/ph-learning/assets/44951778/ce9ee618-4539-4282-9c3f-e01eb1e1f494)
+
 ### Description
 A dynamic website for a photographer that offers a range of photography services, courses and workshops. The goal of the website is to present the photographer's portfolio, attract potential customers and provide users with a platform to register for photography courses and workshops. 
 
